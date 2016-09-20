@@ -22,4 +22,6 @@ This is a reading list for deep learning for OCR.
 - PhotoOCR: Reading Text in Uncontrolled Conditions, Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven. [pdf](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
 - High Performance OCR for Printed English and Fraktur using LSTM Networks. ICDAR, 2013. [pdf](https://www.researchgate.net/profile/Adnan_Ul-Hasan/publication/260341302_High_Performance_OCR_for_Printed_English_and_Fraktur_using_LSTM_Networks/links/0deec530da5e58f067000000.pdf?origin=publication_detail)
 - Image binarization for end-to-end text understanding in natural images, Sergey Milyaev, Olga Barinova, Tatiana Novikova, Pushmeet Kohli, Victor Lempitsky. ICDAR, 2013, [pdf](http://research.microsoft.com/en-us/um/people/pkohli/papers/mbnlk_icdar2013.pdf)
+- M. Jaderberg, A. Vedaldi, A. Zisserman, Deep Features for Text Spotting, European Conference on Computer Vision, 2014. [pdf](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf.pdf). [code][https://bitbucket.org/socialauth/migrate/?next=/jaderberg/eccv2014_textspotting]
+- 
 
