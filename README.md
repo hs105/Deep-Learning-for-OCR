@@ -21,4 +21,5 @@ This is a reading list for deep learning for OCR.
 - Towards End-to-End Speech Recognition with Recurrent Neural Networks. Alex Graves, Navdeep Jaitly. ICML, 2014. [pdf](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
 - PhotoOCR: Reading Text in Uncontrolled Conditions, Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven. [pdf](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
 - High Performance OCR for Printed English and Fraktur using LSTM Networks. ICDAR, 2013. [pdf](https://www.researchgate.net/profile/Adnan_Ul-Hasan/publication/260341302_High_Performance_OCR_for_Printed_English_and_Fraktur_using_LSTM_Networks/links/0deec530da5e58f067000000.pdf?origin=publication_detail)
+- Image binarization for end-to-end text understanding in natural images, Sergey Milyaev, Olga Barinova, Tatiana Novikova, Pushmeet Kohli, Victor Lempitsky. ICDAR, 2013, [pdf](http://research.microsoft.com/en-us/um/people/pkohli/papers/mbnlk_icdar2013.pdf)
 
