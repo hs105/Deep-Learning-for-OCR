@@ -17,5 +17,8 @@ This is a reading list for deep learning for OCR.
 - Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
 - Multi-digit Number Recognition from Street View, Imagery using Deep Convolutional Neural Networks, Ian J. Goodfellow, Yaroslav Bulatov, Julian Ibarz, Sacha Arnoud, Vinay Shet. 2014. [pdf](https://arxiv.org/pdf/1312.6082.pdf)
 - ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks, Francesco Visin, Kyle Kastner,Kyunghyun Cho, Matteo Matteucci,Aaron Courville, Yoshua Bengio. [pdf](https://arxiv.org/pdf/1505.00393.pdf)
+- End-to-End Text Recognition with Convolutional Neural Networks, Tao Wang, David J. Wu, Adam Coates, Andrew Y. Ng, ICPR, 2012. [pdf](https://crypto.stanford.edu/~dwu4/papers/ICPR2012.pdf)
 - Towards End-to-End Speech Recognition with Recurrent Neural Networks. Alex Graves, Navdeep Jaitly. ICML, 2014. [pdf](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
+- PhotoOCR: Reading Text in Uncontrolled Conditions, Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven. [pdf](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
+- High Performance OCR for Printed English and Fraktur using LSTM Networks. ICDAR, 2013. [pdf](https://www.researchgate.net/profile/Adnan_Ul-Hasan/publication/260341302_High_Performance_OCR_for_Printed_English_and_Fraktur_using_LSTM_Networks/links/0deec530da5e58f067000000.pdf?origin=publication_detail)
 
