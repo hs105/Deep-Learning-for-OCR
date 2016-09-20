@@ -1,5 +1,5 @@
 # Deep Learning for OCR
-This is a reading list for deep learning for OCR
+This is a reading list for deep learning for OCR.
 
 ##Papers
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842)
