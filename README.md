@@ -1,7 +1,7 @@
 # Deep Learning for OCR
 This is a reading list for deep learning for OCR.
 
-##Papers
+## Papers
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842)
 - A novel word spotting method based on recurrent neural networks, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.75&rep=rep1&type=pdf)
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, Chen-Yu Lee, Simon Osindero, 2016, [pdf](https://arxiv.org/pdf/1603.03101v1)
