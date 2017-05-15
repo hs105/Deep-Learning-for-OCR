@@ -3,7 +3,6 @@ This is a reading list for deep learning for OCR.
 
 ## Papers
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842)
-- A novel word spotting method based on recurrent neural networks, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.75&rep=rep1&type=pdf)
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, Chen-Yu Lee, Simon Osindero, 2016, [pdf](https://arxiv.org/pdf/1603.03101v1)
 - The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy, 2015, [blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - A Comparison of Sequence-Trained Deep Neural Networks and Recurrent Neural Networks Optical Modeling for Handwriting Recognition, Theodore Bluche, Hermann Ney, and Christopher Kermorvant, slsp, 2014. [pdf](http://www.a2ialab.com/lib/exe/fetch.php?media=publications:slsp2014.pdf)
