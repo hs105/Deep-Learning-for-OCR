@@ -1,5 +1,5 @@
 # Deep Learning for OCR
-This is a reading list for deep learning for OCR. I became interested in this topic when I was developing a mobile app for receipt and shopping management. See [my homepage](https://hengshuaiyao.github.io/) for more this app. 
+This is a reading list for deep learning for OCR. I became interested in this topic when I was developing a mobile app for receipt and shopping management. See [my homepage](https://hengshuaiyao.github.io/) for more this app. I am going to release the dataset we collected for this project. 
 
 ## Papers
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842)
